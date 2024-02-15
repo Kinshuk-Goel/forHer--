@@ -22,7 +22,6 @@ export default function Page() {
       "But :*(",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to nathan's ghost",
       "please babe",
       ":((((",
       "PRETTY PLEASE",
