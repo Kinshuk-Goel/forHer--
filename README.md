@@ -5,7 +5,7 @@ This is a fun project for valentines day to bring smile on face of your special 
 # Website: 
 Using codesandbox.io
 https://3rnp49-5173.csb.app/will-you-be-my-valentine
-For some reason I have to use codesandbox -- vercel doesn't work 
+<p>For some reason I have to use codesandbox -- vercel doesn't work</p>
 
 # How to start
 ```
